@@ -8,7 +8,6 @@ I am founding member of Mumbai Women Coders that aims to encourage more women in
 
 - 🔭 I’m currently working on @react-advanced-patterns, @startjavascript.com , @geeksforjavascript.com
 - 🌱 I’m currently learning web security
-- 🤔 I’m looking for help with 
 - 💬 Ask me about react, javascript, web accessibility, graphql
 - 📫 How to reach me: @manjula_dube on twitter
 - 😄 Pronouns: she/her
