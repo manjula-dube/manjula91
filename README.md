@@ -2,7 +2,7 @@
 
  👋 I’m Manjula.I am Software Engineer & teacher. I'm a world renowned tech speaker.I am from India currently living in Berlin with my husband Sahil Mhapsekar.
 
-I work at N26 as Web Engineer. I am Founder of Geekabyte that aims to deliver in person tech workshops on Web Development & organises international conferences, [React India](https://www.reactindia.io/) & [JS Conf India](https://www.jsconf.in/). I'm also a Google Developer Expert. I have been obsessed with coding ever since I graduated out of college.
+I am Software Engineer & Teacher. I am Founder of Geekabyte that aims to deliver in person tech workshops on Web Development & organises international conferences, [React India](https://www.reactindia.io/) & [JS Conf India](https://www.jsconf.in/). I'm also a Google Developer Expert. I have been obsessed with coding ever since I graduated out of college.
 
 I am founding member of Mumbai Women Coders that aims to encourage more women in tech & provide an avenue into the technology world. I love contributing to open source in my free time. I love Javascript, React & my family ❤️ In coming years I see my self teaching people to code.
 
