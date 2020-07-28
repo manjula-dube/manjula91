@@ -1,6 +1,8 @@
-[![Manjula Dube.](https://www.manjuladube.dev/static/5da690e518d111845570e967b1c31670/88b03/banner-manjula-react.png)](https://www.manjuladube.dev)
+<a href="https://ibb.co/q1KRDFd">
+ <img src="https://i.ibb.co/vzpJcvH/Pink-and-Purple-Label-Landscape-Rectangle-Sticker.png" alt="Pink-and-Purple-Label-Landscape-Rectangle-Sticker" border="0">
+</a>
 
- 👋  I’m Manjula. I am Software Engineer & teacher. I'm a world renowned tech speaker. I am from India currently living in Berlin with my husband Sahil Mhapsekar.
+ I am Software Engineer & teacher. I'm a world renowned tech speaker. I am from India currently living in Berlin with my husband Sahil Mhapsekar.
 
 I am Founder of Geekabyte that aims to deliver in person tech workshops on Web Development & organises international conferences, [React India](https://www.reactindia.io/) & [JS Conf India](https://www.jsconf.in/). I'm also a Google Developer Expert. I have been obsessed with coding ever since I graduated out of college.
 
