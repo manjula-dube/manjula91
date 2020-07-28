@@ -1,5 +1,5 @@
 <a href="https://ibb.co/q1KRDFd" style='text-align:"center"'>
- <img width="800" src="https://i.ibb.co/vzpJcvH/Pink-and-Purple-Label-Landscape-Rectangle-Sticker.png" alt="Pink-and-Purple-Label-Landscape-Rectangle-Sticker" border="0">
+ <img width="1000" src="https://i.ibb.co/vzpJcvH/Pink-and-Purple-Label-Landscape-Rectangle-Sticker.png" alt="Pink-and-Purple-Label-Landscape-Rectangle-Sticker" border="0">
 </a>
 
  I am Software Engineer & teacher. I'm a world renowned tech speaker. I am from India currently living in Berlin with my husband Sahil Mhapsekar.
